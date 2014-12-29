@@ -8,7 +8,7 @@
 		<repo name="test">
 			<git-local-path>путь1</git-local-path>
 			<git-remote>адрес1</git-remote>
-			<v8-storage-dir>каталог1</v8-storage-dir>
+			<v8-storage-dir>testData</v8-storage-dir>
 			<email-domain/>
 			<v8-executable/>
 			<git-executable/>
